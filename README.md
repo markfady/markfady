@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark</h1> <h3 align="center">Fresh Graduate Software Engineer</h3> - 🔭 I’m currently working on [Valinteca Task.]
-(https://github.com/markfady/Valinteca-Task)                                                                                                      
+<h1 align="center">Hi 👋, I'm Mark</h1> <h3 align="center">Fresh Graduate Software Engineer</h3> - 🔭 I’m currently working on [JavaScript Practices.]
+(https://github.com/markfady/JavaScript-Practices)                                                                                                      
 
 -:page_with_curl:CV (https://drive.google.com/file/d/1RGyVe_4dc__1H4rY__dHD8S7nSSoqm8x/view?usp=sharing)                                                          
 -:desktop_computer:	 I’m currently learning **Graphql,Apollo Server**  
