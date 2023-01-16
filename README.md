@@ -4,5 +4,83 @@
 -:page_with_curl:CV (https://drive.google.com/file/d/1RGyVe_4dc__1H4rY__dHD8S7nSSoqm8x/view?usp=sharing)                                                          
 -:desktop_computer:	 I’m currently learning **Graphql,Apollo Server,ReactBootstrap**  
                                                                                                                                                                          
- <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/mark-fady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-fady/" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markfady&show_icons=true&locale=en" alt="markfady" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markfady&" alt="markfady" /></p>
+ <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/mark-fady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-fady/" height="30" width="40" /></a> </p>
+ 
+### Languages and Tools:
+
+ <Br>
+ <table>
+  <tr>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML 5
+    </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS 3
+    </td>
+  <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+      <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>Redux
+    </td>
+    <tr/>
+   <tr>
+       <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
+      </a>
+      <br>VScode
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
+      </a>
+      <br>Terminal
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+</table>
+
+
+ </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markfady&show_icons=true&locale=en" alt="markfady" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markfady&" alt="markfady" /></p>
+  
 
