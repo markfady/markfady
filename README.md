@@ -81,6 +81,7 @@
 </table>
 
 
- </p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markfady&show_icons=true&locale=en" alt="markfady" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markfady&" alt="markfady" /></p>
+ </p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markfady&" alt="markfady" /></p>
   
+
 
