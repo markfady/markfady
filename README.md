@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mark</h1> <h3 align="center">Fresh Graduate Software Engineer</h3> - 🔭 I’m currently working on [JavaScript-Redux Practices.]
-(https://github.com/markfady/JavaScript-Redux-Practices)                                                                                                      
+<h1 align="center">Hi 👋, I'm Mark</h1> <h3 align="center">Fresh Graduate Software Engineer</h3> - 🔭 I’m currently working on [scandiweb-eCommerce Task.]
+(https://github.com/markfady/scandiweb-task-markfady)                                                                                                      
 
 -:page_with_curl:CV (https://drive.google.com/file/d/1RGyVe_4dc__1H4rY__dHD8S7nSSoqm8x/view?usp=sharing)                                                          
 -:desktop_computer:	 I’m currently learning **Graphql,Apollo Server,ReactBootstrap**  
