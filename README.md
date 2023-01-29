@@ -55,6 +55,12 @@
       </a>
       <br>VScode
     </td>
+         <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="48" height="48" alt="MS SQL Server" />
+      </a>
+      <br>SQLServer
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" width="48" height="48" alt="Terminal" />
