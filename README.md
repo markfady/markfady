@@ -69,9 +69,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#">
-        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Github
+      <br>Next.js
     </td>
     <td align="center" width="96">
       <a href="#">
