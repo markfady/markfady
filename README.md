@@ -2,7 +2,7 @@
 (https://github.com/markfady/Angular_Getting_Started)                                                                                                      
 
 :page_with_curl: CV(https://drive.google.com/file/d/1RGyVe_4dc__1H4rY__dHD8S7nSSoqm8x/view?usp=sharing)                                                          
-:computer:I’m currently learning **Angular,Unit testing,Observables,RxJS,Next.JS,Mobile-First,MUI,Tailwind**
+:computer:I’m currently learning **Angular,Unit testing,Observables,RxJS,Next.JS,Mobile-First,MUI,Angular Material**
                                                                                                                                                                          
  <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/mark-fady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mark-fady/" height="30" width="40" /></a> </p>
  
